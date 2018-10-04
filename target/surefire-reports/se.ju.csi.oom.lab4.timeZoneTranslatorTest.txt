@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: se.ju.csi.oom.lab4.timeZoneTranslatorTest
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.001 sec <<< FAILURE!
-testShiftTimeZone(se.ju.csi.oom.lab4.timeZoneTranslatorTest)  Time elapsed: 0.001 sec  <<< FAILURE!
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.054 sec <<< FAILURE!
+testShiftTimeZone(se.ju.csi.oom.lab4.timeZoneTranslatorTest)  Time elapsed: 0.007 sec  <<< FAILURE!
 org.junit.ComparisonFailure: expected:<201[6,12,31,06,00,]00> but was:<201[5-01-01 21:00:]00>
 	at org.junit.Assert.assertEquals(Assert.java:115)
 	at org.junit.Assert.assertEquals(Assert.java:144)
