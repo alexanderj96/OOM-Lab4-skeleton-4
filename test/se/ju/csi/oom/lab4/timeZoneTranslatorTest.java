@@ -22,6 +22,7 @@ public class timeZoneTranslatorTest {
 		test = TimeZoneTranslator.shiftTimeZone(test, 1, -8);
 		System.out.println(test.toString());   
 		//assertEquals(new String("2016,12,31,06,00,00"), test.toString());
+		//jjjj
 				
 	}
 
